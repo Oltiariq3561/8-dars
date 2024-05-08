@@ -202,3 +202,56 @@ margin-top: 140px;
 padding-top: 30px;
 
 }
+
+.yashil__block{
+background-color: #3D4A39;
+width: 100%;
+height: 688px;
+margin-top: 140px;
+}
+.p9{
+font-size: 46px;
+font-weight: 600;
+line-height: 57.5px;
+color: white;
+margin-top: 100px;
+font-weight: 400;
+margin-bottom: 70px;
+width: 1200px;
+text-transform: uppercase;
+text-align: center;
+}
+
+.iconnn{
+text-align: center;
+}
+.iconka{
+display: flex;
+width: 1200px;
+gap: 285px;
+padding-right: 100px;
+padding-left: 100px;
+}
+
+.p10{
+    font-size: 24px;
+    font-weight: 500;
+    opacity: 50%;
+    color: white;
+}
+.conka{
+    display: flex;
+    margin-top: 70px;
+    width: 1200px;
+    gap: 285px;
+    padding-right: 100px;
+    padding-left: 100px;
+    }
+    .conka :nth-child(2){
+        margin-left: 6px;  
+
+        }
+        .conka :nth-child(3){
+            margin-left: -23px;  
+    
+            }
